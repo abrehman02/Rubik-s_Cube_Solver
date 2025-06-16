@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/KorfsRubiksCubeSolver.dir/main.cpp.o: dyndep
+
+build CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube.cpp.o: dyndep
+
+build CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube3d.cpp.o: dyndep
+

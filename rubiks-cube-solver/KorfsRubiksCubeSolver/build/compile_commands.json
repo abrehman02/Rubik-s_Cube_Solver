@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/main.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/main.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/main.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/main.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/RubiksCube.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/RubiksCube.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube3d.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/RubiksCube3d.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/RubiksCube3d.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube3d.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/PatternDatabase.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/PatternDatabase.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/PatternDatabase.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/PatternDatabase.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/NibbleArray.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/NibbleArray.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/NibbleArray.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/NibbleArray.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/CornerPatternDatabase.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/CornerPatternDatabase.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/CornerPatternDatabase.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/CornerPatternDatabase.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/CornerDBMaker.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/CornerDBMaker.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/CornerDBMaker.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/CornerDBMaker.cpp.o"
+},
+{
+  "directory": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build",
+  "command": "/usr/bin/c++   -g -std=gnu++20 -o CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/math.cpp.o -c /home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/math.cpp",
+  "file": "/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/PatternDatabase/math.cpp",
+  "output": "CMakeFiles/KorfsRubiksCubeSolver.dir/PatternDatabase/math.cpp.o"
+}
+]

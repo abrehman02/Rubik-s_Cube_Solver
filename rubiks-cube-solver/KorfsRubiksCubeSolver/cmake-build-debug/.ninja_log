@@ -1,0 +1,13 @@
+# ninja log v6
+243	246	1734200041343976725	CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube.cpp.o.modmap	378ff3f7491d9c01
+246	1877	1734200041347311112	CMakeFiles/KorfsRubiksCubeSolver.dir/main.cpp.o	70358b99973a669c
+1877	1922	1734200042977811557	KorfsRubiksCubeSolver	92c863e105343c65
+243	246	1734200041343976725	CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube3d.cpp.o.modmap	378ff3f7491d9c01
+3	347	1734178258184744077	CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube3d.cpp.o.ddi	a89bd83792fc7b19
+243	246	1734200041343976725	CMakeFiles/KorfsRubiksCubeSolver.dir/main.cpp.o.modmap	378ff3f7491d9c01
+243	246	1734200041343976725	/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/cmake-build-debug/CMakeFiles/KorfsRubiksCubeSolver.dir/CXXModules.json	378ff3f7491d9c01
+353	2555	1734178258531436272	CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube3d.cpp.o	c0670fd85e7ab53b
+2	243	1734200041103900838	CMakeFiles/KorfsRubiksCubeSolver.dir/main.cpp.o.ddi	1143d8d78468718a
+3	341	1734178258184744077	CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube.cpp.o.ddi	893df2641862fdb0
+353	2489	1734178258531436272	CMakeFiles/KorfsRubiksCubeSolver.dir/RubiksCube.cpp.o	f17c090805124bdf
+243	246	1734200041343976725	CMakeFiles/KorfsRubiksCubeSolver.dir/CXX.dd	378ff3f7491d9c01

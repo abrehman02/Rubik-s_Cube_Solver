@@ -1,0 +1,3 @@
+/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build/CMakeFiles/KorfsRubiksCubeSolver.dir
+/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build/CMakeFiles/edit_cache.dir
+/home/heisenberg/CLionProjects/KorfsRubiksCubeSolver/build/CMakeFiles/rebuild_cache.dir
